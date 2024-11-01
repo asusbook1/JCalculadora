@@ -543,7 +543,6 @@ public class Calculadora extends javax.swing.JFrame {
             txtOperaciones.setText(borra);
             txtResultado.setText("  ");
         }
-        Igual.doClick();
     }//GEN-LAST:event_BorrarPasoActionPerformed
 
     private void N0ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_N0ActionPerformed
